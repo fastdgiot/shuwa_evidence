@@ -1,0 +1,12 @@
+{application,shuwa_evidence,
+             [{description,[30005,23376,35777,25454,31649,29702]},
+              {vsn,"4.0.0"},
+              {registered,[]},
+              {mod,{shuwa_evidence_app,[]}},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[shuwa_evidence,shuwa_evidence_app,
+                        shuwa_evidence_handler,shuwa_evidence_sup]},
+              {maintainers,[]},
+              {licenses,["Apache 2.0"]},
+              {links,[]}]}.

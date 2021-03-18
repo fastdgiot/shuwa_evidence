@@ -1,0 +1,36 @@
+
+{mapping, "iot_shuwa_evidence.appid", "shuwa_evidence.appid", [
+{default, ""},
+{datatype, string}
+]}.
+
+{mapping, "iot_shuwa_evidence.appsecret", "shuwa_evidence.appsecret", [
+{default, ""},
+{datatype, string}
+]}.
+
+{mapping, "iot_shuwa_evidence.rest", "shuwa_evidence.rest", [
+{default, ""},
+{datatype, string}
+]}.
+
+{mapping, "iot_shuwa_evidence.graphql", "shuwa_evidence.graphql", [
+{default, ""},
+{datatype, string}
+]}.
+
+
+{mapping, "iot_shuwa_evidence.file", "shuwa_evidence.file", [
+{default, ""},
+{datatype, string}
+]}.
+
+{mapping, "iot_shuwa_evidence.topo", "shuwa_evidence.topo", [
+{default, ""},
+{datatype, string}
+]}.
+
+{mapping, "iot_shuwa_evidence.dashboard", "shuwa_evidence.dashboard", [
+{default, ""},
+{datatype, string}
+]}.
